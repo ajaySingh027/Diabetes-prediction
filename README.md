@@ -16,7 +16,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ## Content
 Data set is collected from [Kaggle](https://www.kaggle.com/datasets).
-Some Notebook code references are used from the related Kaggle Notebook
+Some Notebook code references are used from the related Kaggle Notebook.     
 Original Kaggle Notebook Shared by: [Fares Sayah](https://www.kaggle.com/faressayah)
 
 ### About this Dataset
